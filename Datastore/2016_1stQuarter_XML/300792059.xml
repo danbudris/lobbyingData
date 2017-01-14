@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld2webpage.xsl'?>
+<LOBBYINGDISCLOSURE2>
+  <imported>Y</imported>
+  <pages>4</pages>
+  <submitURL />
+  <organizationName>Squire Patton Boggs</organizationName>
+  <prefix />
+  <firstName />
+  <lastName />
+  <registrantDifferentAddress>off</registrantDifferentAddress>
+  <address1>2550 M STREET, NW</address1>
+  <address2 />
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20037</zip>
+  <zipext />
+  <country>USA</country>
+  <principal_city />
+  <principal_state />
+  <principal_zip />
+  <principal_zipext />
+  <principal_country />
+  <contactPrefix />
+  <contactIntlPhone />
+  <selfSelect>N</selfSelect>
+  <clientName>Mars, Incorporated</clientName>
+  <clientGovtEntity>N</clientGovtEntity>
+  <senateID>30906-1421</senateID>
+  <houseID>319170071</houseID>
+  <reportYear>2016</reportYear>
+  <reportType>1A</reportType>
+  <terminationDate />
+  <noLobbying />
+  <income>200000.00</income>
+  <expenses />
+  <expensesMethod />
+  <printedName>Glenn Willard, Of Counsel</printedName>
+  <signedDate>4/15/2016 2:27:58 PM</signedDate>
+  <alis>
+    <ali_info>
+      <issueAreaCode>AGR</issueAreaCode>
+      <specific_issues>
+        <description>Farm Bill reauthorization and implementation, legislation related to food and pet food regulation, Country of Origin Labeling (S. 1844), and cocoa sustainability.
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. HOUSE OF REPRESENTATIVES, U.S. SENATE</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bret</lobbyistFirstName>
+          <lobbyistLastName>Boyles</lobbyistLastName>
+          <lobbyistSuffix />
+          <coveredPosition>Staff Asst, Deputy COS, COS: Sen.Lott, 96-97,05-07</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Beth</lobbyistFirstName>
+          <lobbyistLastName>Goldstein</lobbyistLastName>
+          <lobbyistSuffix />
+          <coveredPosition>Intern03-04,Staff/LegislAsstHCTI04-08,Intern2011</coveredPosition>
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Laura</lobbyistFirstName>
+          <lobbyistLastName>Klick</lobbyistLastName>
+          <lobbyistSuffix />
+          <coveredPosition>August-December.2013: Legal Intern, U.S. District Court for the District of Columbia.</coveredPosition>
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Aubrey</lobbyistFirstName>
+          <lobbyistLastName>Rothrock</lobbyistLastName>
+          <lobbyistSuffix />
+          <coveredPosition />
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Frank</lobbyistFirstName>
+          <lobbyistLastName>Samolis</lobbyistLastName>
+          <lobbyistSuffix />
+          <coveredPosition />
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Ludmilla</lobbyistFirstName>
+          <lobbyistLastName>Savelieff</lobbyistLastName>
+          <lobbyistSuffix />
+          <coveredPosition>Int,Sen.M.DeWine,03;Int,WHCEQ,06;Asst,WHCEQ,06-09</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>David</lobbyistFirstName>
+          <lobbyistLastName>Schnittger</lobbyistLastName>
+          <lobbyistSuffix />
+          <coveredPosition>DCSOoSpkrMinMajldr06-015;Bnrof94-01;HoEdWrkf01-05</coveredPosition>
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeff</lobbyistFirstName>
+          <lobbyistLastName>Turner</lobbyistLastName>
+          <lobbyistSuffix />
+          <coveredPosition />
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues />
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>TAX</issueAreaCode>
+      <specific_issues>
+        <description>Issues related to Estate and Gift Tax reform.
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. HOUSE OF REPRESENTATIVES, U.S. SENATE</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Aubrey</lobbyistFirstName>
+          <lobbyistLastName>Rothrock</lobbyistLastName>
+          <lobbyistSuffix />
+          <coveredPosition />
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues />
+    </ali_info>
+  </alis>
+  <updates>
+    <clientAddress />
+    <clientCity />
+    <clientState />
+    <clientZip />
+    <clientZipext />
+    <clientCountry />
+    <prinClientCity />
+    <prinClientState />
+    <prinClientZip />
+    <prinClientZipext />
+    <prinClientCountry />
+    <generalDescription />
+    <inactive_lobbyists>
+      <inactive_lobbyist>
+        <firstName>Joshua</firstName>
+        <lastName>Greene</lastName>
+        <suffix />
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+    </inactive_lobbyists>
+    <inactive_ALIs>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+    </inactive_ALIs>
+    <affiliatedUrl />
+    <affiliatedOrgs>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+    </affiliatedOrgs>
+    <inactiveOrgs>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+    </inactiveOrgs>
+    <foreignEntities>
+      <foreignEntity>
+        <name>
+        </name>
+        <address>
+        </address>
+        <city>
+        </city>
+        <state>
+        </state>
+        <country>
+        </country>
+        <prinCity>
+        </prinCity>
+        <prinState>
+        </prinState>
+        <prinCountry>
+        </prinCountry>
+        <contribution>
+        </contribution>
+        <ownership_Percentage>
+        </ownership_Percentage>
+      </foreignEntity>
+    </foreignEntities>
+    <inactive_ForeignEntities>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+    </inactive_ForeignEntities>
+  </updates>
+</LOBBYINGDISCLOSURE2>

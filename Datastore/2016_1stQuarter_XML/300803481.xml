@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld2webpage.xsl'?>
+<LOBBYINGDISCLOSURE2>
+  <imported>Y</imported>
+  <pages>5</pages>
+  <submitURL>
+  </submitURL>
+  <organizationName>American College of Rheumatology</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <registrantDifferentAddress>N</registrantDifferentAddress>
+  <address1>2200 Lake Boulevard NE</address1>
+  <address2>
+  </address2>
+  <city>ATLANTA</city>
+  <state>GA</state>
+  <zip>30319</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <selfSelect>Y</selfSelect>
+  <clientName>American College of Rheumatology</clientName>
+  <clientGovtEntity>N</clientGovtEntity>
+  <senateID>320873-12</senateID>
+  <houseID>395670000</houseID>
+  <reportYear>2016</reportYear>
+  <reportType>Q1</reportType>
+  <terminationDate>
+  </terminationDate>
+  <noLobbying>
+  </noLobbying>
+  <income>
+  </income>
+  <expenses>110000.00</expenses>
+  <expensesMethod>A</expensesMethod>
+  <printedName>Adam Cooper</printedName>
+  <signedDate>4/20/2016 9:03:58 PM</signedDate>
+  <alis>
+    <ali_info>
+      <issueAreaCode>HCR</issueAreaCode>
+      <specific_issues>
+        <description>Monitor federal issues and legislation related to healthcare policy.
+Monitor implementation of the Patient Protection and Affordable Care Act (P.L. 111-148).
+Monitor federal and legislative activity related to health care and reauthorization of National All Schedules Prescription Electronic Reporting Act (NASPER) (P.L. 109-60). 
+Monitor federal and legislative activity related to Medicare Reimbursement.
+Monitor the implementation of Consolidated Appropriations Act, 2016 (P.L. 114-113).
+H.R. 2, Medicare Access and CHIP Reauthorization Act of 2015 (P.L. 114-10).
+H.R. 6, House 21st Century Cures Act.
+H.R. 270, Flexibility in Health IT Reporting (Flex-IT) Act of 2015.
+H.R. 1600, Patients' Access to Treatments Act of 2015.
+H.R. 1725, National All Schedules Prescription Electronic Reporting Reauthorization Act of 2015.
+H.R. 1859, Ensuring Children's Access to Specialty Care Act of 2015.
+S. 480, National All Schedules Prescription Electronic Reporting Reauthorization Act of 2015.
+H.R. 2256, Veterans Information Modernization Act.
+H.R. 2464, Demanding Accountability for Veterans Act of 2015.
+H.R. 3020, House Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2015.
+S. 1695, Senate Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2015.
+H.R. 4227, Medicare Advantage Bill of Rights.
+S. 2392, Medicare Advantage Bill of Rights.</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Adam</lobbyistFirstName>
+          <lobbyistLastName>Cooper</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Lennie</lobbyistFirstName>
+          <lobbyistLastName>Shewmaker</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>BUD</issueAreaCode>
+      <specific_issues>
+        <description>Funding for NIH, CDC, DOD, related to arthritis and rheumatic disease research and education.
+Funding for Pediatric Subspecialty Loan Repayment Program.
+Defense Authorization Act for Fiscal Year 2016.
+Monitor federal issues and legislation related to healthcare policy.
+Monitor implementation of the Patient Protection and Affordable Care Act (P.L. 111-148).
+Monitor federal and legislative activity related to health care and reauthorization of National All Schedules Prescription Electronic Reporting Act (NASPER) (P.L. 109-60). 
+Monitor federal and legislative activity related to Medicare Reimbursement.
+Monitor the implementation of Consolidated Appropriations Act, 2016 (P.L. 114-113).
+H.R. 2, Medicare Access and CHIP Reauthorization Act of 2015 (P.L. 114-10).
+H.R. 6, House 21st Century Cures Act.
+H.R. 270, Flexibility in Health IT Reporting (Flex-IT) Act of 2015.
+H.R. 1600, Patients' Access to Treatments Act of 2015.
+H.R. 1725, National All Schedules Prescription Electronic Reporting Reauthorization Act of 2015.
+H.R. 1859, Ensuring Children's Access to Specialty Care Act of 2015.
+S. 480, National All Schedules Prescription Electronic Reporting Reauthorization Act of 2015.
+H.R. 2256, Veterans Information Modernization Act.
+H.R. 2464, Demanding Accountability for Veterans Act of 2015.
+H.R. 3020, House Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2015.
+S. 1695, Senate Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2015.
+H.R. 4227, Medicare Advantage Bill of Rights.
+S. 2392, Medicare Advantage Bill of Rights.</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Adam</lobbyistFirstName>
+          <lobbyistLastName>Cooper</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Lennie</lobbyistFirstName>
+          <lobbyistLastName>Shewmaker</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>MMM</issueAreaCode>
+      <specific_issues>
+        <description>Monitor federal issues and legislation related to healthcare policy.
+Monitor implementation of the Patient Protection and Affordable Care Act (P.L. 111-148).
+Monitor federal and legislative activity related to health care and reauthorization of National All Schedules Prescription Electronic Reporting Act (NASPER) (P.L. 109-60). 
+Monitor federal and legislative activity related to Medicare Reimbursement.
+Monitor the implementation of Consolidated Appropriations Act, 2016 (P.L. 114-113).
+Extend Section 3111, P.L. 111-148.
+H.R. 2, Medicare Access and CHIP Reauthorization Act of 2015 (P.L. 114-10).
+H.R. 6, House 21st Century Cures Act.
+H.R. 270, Flexibility in Health IT Reporting (Flex-IT) Act of 2015.
+H.R. 1416, Cancer Patient Protection Act of 2015.
+H.R. 1600, Patients' Access to Treatments Act of 2015.
+H.R. 1725, National All Schedules Prescription Electronic Reporting Reauthorization Act of 2015.
+H.R. 1859, Ensuring Children's Access to Specialty Care Act of 2015.
+S. 480, National All Schedules Prescription Electronic Reporting Reauthorization Act of 2015.
+H.R. 2256, Veterans Information Modernization Act.
+H.R. 2464, Demanding Accountability for Veterans Act of 2015.
+H.R. 3020, House Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2015.
+S. 1695, Senate Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2015.
+H.R. 4227, Medicare Advantage Bill of Rights.
+S. 2392, Medicare Advantage Bill of Rights.</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES, Centers For Medicare and Medicaid Services (CMS)</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Adam</lobbyistFirstName>
+          <lobbyistLastName>Cooper</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Lennie</lobbyistFirstName>
+          <lobbyistLastName>Shewmaker</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+  </alis>
+  <updates>
+    <clientAddress>
+    </clientAddress>
+    <clientCity>
+    </clientCity>
+    <clientState>
+    </clientState>
+    <clientZip>
+    </clientZip>
+    <clientZipext>
+    </clientZipext>
+    <clientCountry>
+    </clientCountry>
+    <prinClientCity>
+    </prinClientCity>
+    <prinClientState>
+    </prinClientState>
+    <prinClientZip>
+    </prinClientZip>
+    <prinClientZipext>
+    </prinClientZipext>
+    <prinClientCountry>
+    </prinClientCountry>
+    <generalDescription>
+    </generalDescription>
+    <inactive_lobbyists>
+      <inactive_lobbyist>
+        <firstName>Regina</firstName>
+        <lastName>Mincberg</lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+    </inactive_lobbyists>
+    <inactive_ALIs>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+    </inactive_ALIs>
+    <affiliatedUrl>
+    </affiliatedUrl>
+    <affiliatedOrgs>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+    </affiliatedOrgs>
+    <inactiveOrgs>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+    </inactiveOrgs>
+    <foreignEntities>
+      <foreignEntity>
+        <name>
+        </name>
+        <address>
+        </address>
+        <city>
+        </city>
+        <state>
+        </state>
+        <country>
+        </country>
+        <prinCity>
+        </prinCity>
+        <prinState>
+        </prinState>
+        <prinCountry>
+        </prinCountry>
+        <contribution>
+        </contribution>
+        <ownership_Percentage>
+        </ownership_Percentage>
+      </foreignEntity>
+    </foreignEntities>
+    <inactive_ForeignEntities>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+    </inactive_ForeignEntities>
+  </updates>
+</LOBBYINGDISCLOSURE2>

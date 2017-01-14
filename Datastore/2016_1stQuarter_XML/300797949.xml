@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld2webpage.xsl'?>
+<LOBBYINGDISCLOSURE2>
+  <imported>Y</imported>
+  <pages>5</pages>
+  <submitURL>
+  </submitURL>
+  <organizationName>Americas Essential Hospitals (formerly known as NAPH)</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <registrantDifferentAddress>N</registrantDifferentAddress>
+  <address1>401 Ninth Street NW, Suite 900</address1>
+  <address2>
+  </address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20004</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <selfSelect>Y</selfSelect>
+  <clientName>Americas Essential Hospitals (formerly known as NAPH)</clientName>
+  <clientGovtEntity>N</clientGovtEntity>
+  <senateID>27057-12</senateID>
+  <houseID>302500000</houseID>
+  <reportYear>2016</reportYear>
+  <reportType>Q1</reportType>
+  <terminationDate>
+  </terminationDate>
+  <noLobbying>
+  </noLobbying>
+  <income>
+  </income>
+  <expenses>250000.00</expenses>
+  <expensesMethod>C</expensesMethod>
+  <printedName>Shawn Gremminger</printedName>
+  <signedDate>4/20/2016 10:08:18 AM</signedDate>
+  <alis>
+    <ali_info>
+      <issueAreaCode>MMM</issueAreaCode>
+      <specific_issues>
+        <description>Issues pertaining to Medicaid reform, block grant proposals, per capita caps
+Medicare and Medicaid Graduate Medical Education
+Medicaid provider taxes
+Medicare bad debt payments
+Medicare and Medicaid payment
+H.R.2 the Medicare Access and CHIP Reauthorization Act of 2015, all provisions
+H.R.1343/S.688 Establishing Equity in the Hospital Readmissions Program Act of 2015, all provisions
+Medicaid Waivers
+Medicaid Expansion Issues
+Medicaid disproportionate share hospital payments
+Medicare disproportionate share hospital payments
+Medicare hospital readmissions program
+Funding for the Children's Health Insurance Program
+Medicaid primary care payment parity
+Issues related to Medicaid reform including Medicaid block grants and per capita caps
+Medicare evaluation and management codes and other Medicare outpatient codes/ Medicare site neutral documents 
+Meaningful Use stage 2 and 3
+Medicare Shared Savings Program
+HR2151 Improving Oversight and Accountability in Medicaid Non-DSH Supplemental Payments Act
+HR1362 Medicaid Reports Act
+HR1400 Medicaid Tax Fairness Act
+HR1361 Medicaid Home Improvement
+HR2119 To amend title XI of the Social Security Act to require that state applications for state plan waivers under the Medicaid program be approved only if such applications are budget neutral, and for other purposes
+Legislation related to chronic care treatment
+H.R. 3292 Medicare IME Pool Act of 2015
+H.R. 3288 Strengthening DSH and Medicare through Subsidy Recapture and Payment Reform Act
+H.R. 3291 Medicare Crosswalk Hospital Code Development Act
+Medicaid data and transparency
+Medicaid Managed Care Policies/ rulemaking
+Medicaid supplemental payments
+Medicare Site Neutral payments for hospital outpatient departments
+H.R.4442/S.2484 Connect for Health Act
+H.R.3309 Flex-It 2 Act
+H.R.4774 Training tomorrow's doctors today act
+H.R.4588 Incentivizing Medicaid expansion act
+S.2787 States achieve Medicaid expansion act
+
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. HOUSE OF REPRESENTATIVES, U.S. SENATE, White House Office</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Shawn</lobbyistFirstName>
+          <lobbyistLastName>Gremminger</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Beth</lobbyistFirstName>
+          <lobbyistLastName>Feldpush</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Amanda</lobbyistFirstName>
+          <lobbyistLastName>Walsh</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jocelyn</lobbyistFirstName>
+          <lobbyistLastName>Wiles</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>HCR</issueAreaCode>
+      <specific_issues>
+        <description>Issues pertaining to implementation of the Affordable Care Act, particularly Medicaid expansion and state marketplaces
+Medical Tort Reform
+H.R. 1117, the Creating Access to Residency Education Act of 2015
+The Implementation of the Affordable Care Act
+340B Drug pricing program
+Development of legislation to create partnership opportunities for essential hospitals
+Graduate medical education/physician residency slots/ indirect Medical Education Funding
+Increase awareness and work around eliminating health care disparities
+HR6 21st Century Cures Act
+Issues related to Telehealth and Telemedicine
+S.1549 Care Planning Act of 2015
+Issues around Medicare payment for end-of-life care planning
+Mental Health Reform Legislation 
+S. 1945 Mental Health Reform Act of 2015
+HR 2646 Helping Families in Mental Health Crisis Act of 2015</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES, White House Office</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Shawn</lobbyistFirstName>
+          <lobbyistLastName>Gremminger</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Beth</lobbyistFirstName>
+          <lobbyistLastName>Feldpush</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Amanda</lobbyistFirstName>
+          <lobbyistLastName>Walsh</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jocelyn</lobbyistFirstName>
+          <lobbyistLastName>Wiles</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>BUD</issueAreaCode>
+      <specific_issues>
+        <description>Implementation of the Budget Control Act
+Efforts to prevent or mitigate proposed Medicaid cuts and other hospital reimbursement cuts
+H Con Res 25- House Budget Resolution for FY 2014, issues related to healthcare funding 
+H.Con.Res 27 Fiscal Year 2016 Budget Resolution
+S. Con. Res 11 Fiscal Year 2016 Budget Resolution
+Efforts to prevent or mitigate proposed Medicaid cuts and other hospital reimbursement cuts
+The White House FY 2016 budget proposal
+Issues related to the Medicare Independent Payment Advisory Board
+Funding for the Prevention and Public Health Fund
+Budget Reconciliation Legislation
+H.R. 2029 Consolidated Appropriations Act of 2016
+HR 1314 Bipartisan Budget Act of 2015 
+Efforts to include language disallowing funds to finalize the 340B omnibus guidance in FY2017 appropriations bills
+
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES, White House Office</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Shawn</lobbyistFirstName>
+          <lobbyistLastName>Gremminger</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Beth</lobbyistFirstName>
+          <lobbyistLastName>Feldpush</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Amanda</lobbyistFirstName>
+          <lobbyistLastName>Walsh</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jocelyn </lobbyistFirstName>
+          <lobbyistLastName>Wiles</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+  </alis>
+  <updates>
+    <clientAddress>
+    </clientAddress>
+    <clientCity>
+    </clientCity>
+    <clientState>
+    </clientState>
+    <clientZip>
+    </clientZip>
+    <clientZipext>
+    </clientZipext>
+    <clientCountry>
+    </clientCountry>
+    <prinClientCity>
+    </prinClientCity>
+    <prinClientState>
+    </prinClientState>
+    <prinClientZip>
+    </prinClientZip>
+    <prinClientZipext>
+    </prinClientZipext>
+    <prinClientCountry>
+    </prinClientCountry>
+    <generalDescription>
+    </generalDescription>
+    <inactive_lobbyists>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+    </inactive_lobbyists>
+    <inactive_ALIs>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+    </inactive_ALIs>
+    <affiliatedUrl>
+    </affiliatedUrl>
+    <affiliatedOrgs>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+    </affiliatedOrgs>
+    <inactiveOrgs>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+    </inactiveOrgs>
+    <foreignEntities>
+      <foreignEntity>
+        <name>
+        </name>
+        <address>
+        </address>
+        <city>
+        </city>
+        <state>
+        </state>
+        <country>
+        </country>
+        <prinCity>
+        </prinCity>
+        <prinState>
+        </prinState>
+        <prinCountry>
+        </prinCountry>
+        <contribution>
+        </contribution>
+        <ownership_Percentage>
+        </ownership_Percentage>
+      </foreignEntity>
+    </foreignEntities>
+    <inactive_ForeignEntities>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+    </inactive_ForeignEntities>
+  </updates>
+</LOBBYINGDISCLOSURE2>

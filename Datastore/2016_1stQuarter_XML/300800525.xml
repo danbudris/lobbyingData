@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld2webpage.xsl'?>
+<LOBBYINGDISCLOSURE2>
+  <imported>Y</imported>
+  <pages>5</pages>
+  <submitURL>
+  </submitURL>
+  <organizationName>DaVita HealthCare Partners Inc.</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <registrantDifferentAddress>N</registrantDifferentAddress>
+  <address1>500 North Capitol St. NW</address1>
+  <address2>Suite 300</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20001</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <selfSelect>Y</selfSelect>
+  <clientName>DaVita HealthCare Partners Inc.</clientName>
+  <clientGovtEntity>N</clientGovtEntity>
+  <senateID>301232-12</senateID>
+  <houseID>377660000</houseID>
+  <reportYear>2016</reportYear>
+  <reportType>Q1</reportType>
+  <terminationDate>
+  </terminationDate>
+  <noLobbying>
+  </noLobbying>
+  <income>
+  </income>
+  <expenses>920000.00</expenses>
+  <expensesMethod>A</expensesMethod>
+  <printedName>Joelle Thornhill</printedName>
+  <signedDate>4/20/2016 3:04:56 PM</signedDate>
+  <alis>
+    <ali_info>
+      <issueAreaCode>HCR</issueAreaCode>
+      <specific_issues>
+        <description>CMS regulations related to the treatment of Medicare Part C and Part D
+
+CMS regulations pertaining to reimbursement rates for ESRD-related services.
+
+H.R. 270 Flexibility in Health IT Reporting Act (All provisions)
+
+Comprehensive reforms to meaningful use; stage 3 meaningful use proposed rule
+ 
+S. 598 Chronic Kidney Disease Improvement in Research and Treatment Act of 2015 (All provisions)
+
+H.R. 1130  Chronic Kidney Disease Improvement in Research and Treatment Act of 2015 (All provisions)
+
+S. 776 - Medication Therapy Management Empowerment Act of 2015 (All provisions)
+
+H.R. 244 - MAC Transparency Act (All provisions)
+
+H.R. 2507 - The Increasing Regulatory Fairness Act (All provisions)
+
+2017 CMS regulations pertaining to reimbursement rates for ESRD-related services
+
+CMS survey and certification of kidney dialysis centers
+
+S. 2484 - CONNECT for Health Act (All provisions)
+
+CMS/Medicare Advantage ESRD rate formulation</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES, Health &amp; Human Services - Dept of  (HHS), Centers For Medicare and  Medicaid Services  (CMS)</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>LeAnne</lobbyistFirstName>
+          <lobbyistLastName>Zumwalt</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Joelle</lobbyistFirstName>
+          <lobbyistLastName>Thornhill</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>David</lobbyistFirstName>
+          <lobbyistLastName>Sanders</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Javier</lobbyistFirstName>
+          <lobbyistLastName>Martinez</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Dir. of Member Services and Outreach Advisor, Whip Steny Hoyer</coveredPosition>
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>MMM</issueAreaCode>
+      <specific_issues>
+        <description>CMS regulations related to the treatment of Medicare Part C and Part D
+
+CMS regulations pertaining to reimbursement rates for ESRD-related services.
+
+H.R. 270 Flexibility in Health IT Reporting Act (All provisions)
+
+Comprehensive reforms to meaningful use; stage 3 meaningful use proposed rule
+ 
+S. 598 Chronic Kidney Disease Improvement in Research and Treatment Act of 2015 (All provisions)
+
+H.R. 1130  Chronic Kidney Disease Improvement in Research and Treatment Act of 2015 (All provisions)
+
+S. 776 - Medication Therapy Management Empowerment Act of 2015 (All provisions)
+
+H.R. 244 - MAC Transparency Act (All provisions)
+
+H.R. 2507 - The Increasing Regulatory Fairness Act (All provisions)
+
+2017 CMS regulations pertaining to reimbursement rates for ESRD-related services
+
+CMS survey and certification of kidney dialysis centers
+
+S. 2484 - CONNECT for Health Act (All provisions)
+
+CMS/Medicare Advantage ESRD rate formulation</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES, Health &amp; Human Services - Dept of  (HHS), Centers For Medicare and  Medicaid Services  (CMS)</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>LeAnne</lobbyistFirstName>
+          <lobbyistLastName>Zumwalt</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Joelle</lobbyistFirstName>
+          <lobbyistLastName>Thornhill</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>David</lobbyistFirstName>
+          <lobbyistLastName>Sanders</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Javier</lobbyistFirstName>
+          <lobbyistLastName>Martinez</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Dir. of Member Services and Outreach Advisor, Whip Steny Hoyer</coveredPosition>
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>VET</issueAreaCode>
+      <specific_issues>
+        <description>Matters related to Veteran Affairs and construction of dialysis facilities.
+
+S. 2646 - Veterans Choice Improvement Act of 2016 (All provisions)
+
+S. 2633 - Improving Veterans Access to Care in Community Act (All provisions)
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES, Veterans Affairs - Dept of (VA)</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>LeAnne</lobbyistFirstName>
+          <lobbyistLastName>Zumwalt</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Joelle</lobbyistFirstName>
+          <lobbyistLastName>Thornhill</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>David</lobbyistFirstName>
+          <lobbyistLastName>Sanders</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Javier</lobbyistFirstName>
+          <lobbyistLastName>Martinez</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Dir. of Member Services and Outreach Advisor, Whip Steny Hoyer</coveredPosition>
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+  </alis>
+  <updates>
+    <clientAddress>
+    </clientAddress>
+    <clientCity>
+    </clientCity>
+    <clientState>
+    </clientState>
+    <clientZip>
+    </clientZip>
+    <clientZipext>
+    </clientZipext>
+    <clientCountry>
+    </clientCountry>
+    <prinClientCity>
+    </prinClientCity>
+    <prinClientState>
+    </prinClientState>
+    <prinClientZip>
+    </prinClientZip>
+    <prinClientZipext>
+    </prinClientZipext>
+    <prinClientCountry>
+    </prinClientCountry>
+    <generalDescription>
+    </generalDescription>
+    <inactive_lobbyists>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+    </inactive_lobbyists>
+    <inactive_ALIs>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+    </inactive_ALIs>
+    <affiliatedUrl>
+    </affiliatedUrl>
+    <affiliatedOrgs>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+    </affiliatedOrgs>
+    <inactiveOrgs>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+    </inactiveOrgs>
+    <foreignEntities>
+      <foreignEntity>
+        <name>
+        </name>
+        <address>
+        </address>
+        <city>
+        </city>
+        <state>
+        </state>
+        <country>
+        </country>
+        <prinCity>
+        </prinCity>
+        <prinState>
+        </prinState>
+        <prinCountry>
+        </prinCountry>
+        <contribution>
+        </contribution>
+        <ownership_Percentage>
+        </ownership_Percentage>
+      </foreignEntity>
+    </foreignEntities>
+    <inactive_ForeignEntities>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+    </inactive_ForeignEntities>
+  </updates>
+</LOBBYINGDISCLOSURE2>

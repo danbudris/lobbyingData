@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld2webpage.xsl'?>
+<LOBBYINGDISCLOSURE2>
+  <imported>Y</imported>
+  <pages>12</pages>
+  <submitURL>
+  </submitURL>
+  <organizationName>Southern Company</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <registrantDifferentAddress>N</registrantDifferentAddress>
+  <address1>601 PENNSYLVANIA AVENUE, NW</address1>
+  <address2>SUITE 800</address2>
+  <city>WASHINGTON</city>
+  <state>DC</state>
+  <zip>20004</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>Atlanta</principal_city>
+  <principal_state>GA</principal_state>
+  <principal_zip>30308</principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>USA</principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <selfSelect>Y</selfSelect>
+  <clientName>Southern Company</clientName>
+  <clientGovtEntity>N</clientGovtEntity>
+  <senateID>295873-12</senateID>
+  <houseID>313320000</houseID>
+  <reportYear>2016</reportYear>
+  <reportType>Q1</reportType>
+  <terminationDate>
+  </terminationDate>
+  <noLobbying>
+  </noLobbying>
+  <income>
+  </income>
+  <expenses>3420000.00</expenses>
+  <expensesMethod>A</expensesMethod>
+  <printedName>Southern Company</printedName>
+  <signedDate>4/20/2016 5:54:31 PM</signedDate>
+  <alis>
+    <ali_info>
+      <issueAreaCode>CAW</issueAreaCode>
+      <specific_issues>
+        <description>H.R. 1388, Clean Air, Strong Economies Act (regarding EPA ozone NAAQS);
+H.R.1732, the Regulatory Integrity Protection Act of 2015 - Waters of the United States
+S.1140, the Federal Water Quality Protection Act - Waters of the United States
+S.1324, the Affordable Reliable Electricity Now Act of 2015 - greenhouse gas regulation
+S.1140, Federal Water Quality Protection Act (requires withdrawal of WOTUS rule and sets parameters for development of a new rule).
+
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bryan</lobbyistFirstName>
+          <lobbyistLastName>Anderson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>L. Ray</lobbyistFirstName>
+          <lobbyistLastName>Harry</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>H. Adam</lobbyistFirstName>
+          <lobbyistLastName>Lawrence</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Counsel, U.S. Senator John Breaux (LA)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Noel W.</lobbyistFirstName>
+          <lobbyistLastName>Black</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>James M.</lobbyistFirstName>
+          <lobbyistLastName>McCool</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Michael J.</lobbyistFirstName>
+          <lobbyistLastName>Riith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Chief of Staff, U.S. Rep. Steven LaTourette (OH)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeanne H.</lobbyistFirstName>
+          <lobbyistLastName>Wolak</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Director, U.S. Rep. Jim Chatman (TX)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Leroy D.</lobbyistFirstName>
+          <lobbyistLastName>Nix</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Aide, U.S. Senator Jeff Sessions</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>F. Scott </lobbyistFirstName>
+          <lobbyistLastName>Orr</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gifford W. </lobbyistFirstName>
+          <lobbyistLastName>Ormes</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J.R. </lobbyistFirstName>
+          <lobbyistLastName>Robinson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gregory L.</lobbyistFirstName>
+          <lobbyistLastName>Smith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J. Wells</lobbyistFirstName>
+          <lobbyistLastName>Ellenberg</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Alex B. </lobbyistFirstName>
+          <lobbyistLastName>McCrary</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Daniel S.</lobbyistFirstName>
+          <lobbyistLastName>Murray</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Senior Policy Adviser, U.S. Sen. James E Risch (ID)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>ENG</issueAreaCode>
+      <specific_issues>
+        <description>H.R. 8, North American Energy Security and Infrastructure Act of 2015;
+H.R. 1558, Resolving Environmental and Grid Reliability Conflicts Act of 2015;
+H.R. 3643, Interim Consolidated Storage Act of 2015;
+S. 535, the Energy Efficiency Improvement Act of 2015, relating to water heaters;
+S. 601, Advanced Clean Coal Technology Investment in our Nation Act of 2015;
+S. 848, Resolving Environmental and Grid Reliability Conflicts Act of 2015;
+S.1363, A bill to require the Secretary of Energy to submit to Congress a report assessing the capability of the Department of Energy to authorize, host, and oversee privately funded fusion and fission reactor prototypes and related demonstration facilities at sites owned by the Department of Energy;
+S.2012,  Energy Policy Modernization Act of 2015;
+Export-Import Bank reauthorization, nuclear related issues
+S.691, the Nuclear Waste Informed Consent Act;
+S.854, the Nuclear Waste Administration Act of 2015</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bryan D.</lobbyistFirstName>
+          <lobbyistLastName>Anderson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>L. Ray</lobbyistFirstName>
+          <lobbyistLastName>Harry</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>H. Adam</lobbyistFirstName>
+          <lobbyistLastName>Lawrence</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Counsel, U.S. Sen. John Breaux (LA)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Noel W.</lobbyistFirstName>
+          <lobbyistLastName>Black</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>James M.</lobbyistFirstName>
+          <lobbyistLastName>McCool</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Michael J. </lobbyistFirstName>
+          <lobbyistLastName>Riith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Deputy Chief of Staff, U.S. Rep. Steven LaTourette (OH)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeanne H.</lobbyistFirstName>
+          <lobbyistLastName>Wolak</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Director, U.S. Rep. Jim Chapman (TX)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Leroy D.</lobbyistFirstName>
+          <lobbyistLastName>Nix</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Aide, U.S. Sen. Jeff Sessions (AL)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>F. Scott</lobbyistFirstName>
+          <lobbyistLastName>Orr</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gifford W. </lobbyistFirstName>
+          <lobbyistLastName>Ormes</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J.R.</lobbyistFirstName>
+          <lobbyistLastName>Robinson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gregory L.</lobbyistFirstName>
+          <lobbyistLastName>Smith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J. Wells</lobbyistFirstName>
+          <lobbyistLastName>Ellenberg</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Alex B.</lobbyistFirstName>
+          <lobbyistLastName>McCrary</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Daniel S.</lobbyistFirstName>
+          <lobbyistLastName>Murray</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Senior Policy Adviser, U.S. Sen. James E Risch (ID)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>CDT</issueAreaCode>
+      <specific_issues>
+        <description>Derivative end-user protections, generally.</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bryan D. </lobbyistFirstName>
+          <lobbyistLastName>Anderson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>L. Ray </lobbyistFirstName>
+          <lobbyistLastName>Harry</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>H. Adam</lobbyistFirstName>
+          <lobbyistLastName>Lawrence</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Counsel, U.S. Sen. John Breaux (LA)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Noel W.</lobbyistFirstName>
+          <lobbyistLastName>Black</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>James M. </lobbyistFirstName>
+          <lobbyistLastName>McCool</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Michael J.</lobbyistFirstName>
+          <lobbyistLastName>Riith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Chief of Staff, U.S. Rep Steven LaTourette (OH)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeanne H.</lobbyistFirstName>
+          <lobbyistLastName>Wolak</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Director, U.S. Rep. Jim Chapman (TX)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Leroy D. </lobbyistFirstName>
+          <lobbyistLastName>Nix</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Aide, U.S. Sen. Jeff Sessions (AL)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>F. Scott</lobbyistFirstName>
+          <lobbyistLastName>Orr</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gifford W.</lobbyistFirstName>
+          <lobbyistLastName>Ormes</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J.R. </lobbyistFirstName>
+          <lobbyistLastName>Robinson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gregory L.</lobbyistFirstName>
+          <lobbyistLastName>Smith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J. Wells</lobbyistFirstName>
+          <lobbyistLastName>Ellenberg</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Alex B.</lobbyistFirstName>
+          <lobbyistLastName>McCrary</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Daniel S.</lobbyistFirstName>
+          <lobbyistLastName>Murray</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Senior Policy Adviser, U.S. Sen. James E Risch (ID)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>BUD</issueAreaCode>
+      <specific_issues>
+        <description>FY 2016 Interior, Environment, and Related Agencies Appropriations, (potential appropriations issues related to Waters of the U.S., 316(b) Cooling Water Intake Structures rule, CCR regulation, and GHG NSPS);
+FY 2016 Energy and Water Development, and Related Agencies Appropriations, (potential appropriations issues related to DOE industry coordination on cyber and physical security, DOE/industry partnership on storm response and restoration, and grid resilience, Nuclear Regulatory Commission fees and regulatory process and the Uranium D&amp;D Fund);
+H.R. 2028, FY 2016 Energy and Water Development and Related Agencies Appropriations Act, 2016, Waters of the U.S. policy rider, (potential appropriations issues related to DOE-industry coordination on cyber and physical security, DOE/industry partnership on storm response and restoration, and grid resilience);
+H.R. 2029, Consolidated Appropriations Act (appropriations issues related to unmanned aerial vehicle (UAV), clean coal funding, energy-related R&amp;D funding)
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bryan D. </lobbyistFirstName>
+          <lobbyistLastName>Anderson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>L. Ray</lobbyistFirstName>
+          <lobbyistLastName>Harry</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>H. Adam</lobbyistFirstName>
+          <lobbyistLastName>Lawrence</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Counsel, U.S. Sen. John Breaux (LA)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Noel W.</lobbyistFirstName>
+          <lobbyistLastName>Black</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>James M.</lobbyistFirstName>
+          <lobbyistLastName>McCool</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Michael J.</lobbyistFirstName>
+          <lobbyistLastName>Riith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Chief of Staff, U.S. Rep. Steven LaTourette</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeanne H.</lobbyistFirstName>
+          <lobbyistLastName>Wolak</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Director, U.S. Rep. Jim Chapman</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Leroy D.</lobbyistFirstName>
+          <lobbyistLastName>Nix</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Aide, U.S. Sen. Jeff Sessions (AL)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>F. Scott</lobbyistFirstName>
+          <lobbyistLastName>Orr</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gifford W. </lobbyistFirstName>
+          <lobbyistLastName>Ormes</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J.R. </lobbyistFirstName>
+          <lobbyistLastName>Robinson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gregory L.</lobbyistFirstName>
+          <lobbyistLastName>Smith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J. Wells</lobbyistFirstName>
+          <lobbyistLastName>Ellenberg</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Alex B. </lobbyistFirstName>
+          <lobbyistLastName>McCrary</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Daniel S.</lobbyistFirstName>
+          <lobbyistLastName>Murray</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Senior Policy Adviser, U.S. Sen. James E Risch (ID)</coveredPosition>
+          <lobbyistNew>Y</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>ENV</issueAreaCode>
+      <specific_issues>
+        <description>S.691, the Nuclear Waste Informed Consent Act;
+S. 854, the Nuclear Waste Administration Act of 2015
+H.R. 1734, Improving Coal Combustion Residuals Regulation Act of 2015, to provide for implementation of minimum federal CCR requirements through a state-based permit program;
+H.R. 2029, Consolidated Appropriations Act of 2016;
+H.R.4745, the Interim Consolidated Storage Act of 2016;
+H.R. 4084, the Nuclear Energy Innovation Capabilities Act;
+S.1363, a bill to require the Secretary of Energy to submit to Congress a report assessing the capability of the Department of Energy to authorize, host, and oversee privately funded fusion and fission;
+S. 1803. the Improving Coal Combustion Residuals Regulation Act of 2015; 
+S.2461, the Nuclear Energy Innovation Capabilities Act.
+
+
+
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bryan D.</lobbyistFirstName>
+          <lobbyistLastName>Anderson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>L. Ray</lobbyistFirstName>
+          <lobbyistLastName>Harry</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>H. Adam</lobbyistFirstName>
+          <lobbyistLastName>Lawrence</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Counsel, U.S. Sen. John Breaux (LA)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Noel W.</lobbyistFirstName>
+          <lobbyistLastName>Black</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>James M.</lobbyistFirstName>
+          <lobbyistLastName>McCool</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Michael J.</lobbyistFirstName>
+          <lobbyistLastName>Riith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Chief of Staff, U.S. Rep. Steven LaTourette</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeanne H. </lobbyistFirstName>
+          <lobbyistLastName>Wolak</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Director, U.S. Rep. Jim Chapman (TX)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Leroy D.</lobbyistFirstName>
+          <lobbyistLastName>Nix</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Aide, U.S. Sen. Jeff Sessions (AL)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>F. Scott</lobbyistFirstName>
+          <lobbyistLastName>Orr</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gifford W.</lobbyistFirstName>
+          <lobbyistLastName>Ormes</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J.R.</lobbyistFirstName>
+          <lobbyistLastName>Robinson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gregory L.</lobbyistFirstName>
+          <lobbyistLastName>Smith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J. Wells</lobbyistFirstName>
+          <lobbyistLastName>Ellenberg</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Daniel S.</lobbyistFirstName>
+          <lobbyistLastName>Murray</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Senior Policy Adviser, U.S. Sen. James E Risch (ID)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>TAX</issueAreaCode>
+      <specific_issues>
+        <description>Comprehensive tax reform, generally
+Energy tax extenders legislation, generally
+H.R.2510, to amend the Internal Revenue Code of 1986 to modify and make permanent bonus depreciation;
+H.R.4377, the American Business Competitiveness Act of 2015;
+S. 2658, the Federal Aviation Administration Reauthorization Act of 2016.
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bryan D.</lobbyistFirstName>
+          <lobbyistLastName>Anderson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>L. Ray</lobbyistFirstName>
+          <lobbyistLastName>Harry</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>H. Adam</lobbyistFirstName>
+          <lobbyistLastName>Lawrence</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Counsel, U.S. Sen. John Breaux</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Noel W.</lobbyistFirstName>
+          <lobbyistLastName>Black</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>James M.</lobbyistFirstName>
+          <lobbyistLastName>McCool</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Michael J.</lobbyistFirstName>
+          <lobbyistLastName>Riith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Chief of Staff, U.S. Rep Steven LaTourette</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeanne H.</lobbyistFirstName>
+          <lobbyistLastName>Wolak</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Director, U.S. Rep Jim Chapman (TX)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Leroy D.</lobbyistFirstName>
+          <lobbyistLastName>Nix</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Aide, U.S. Sen. Jeff Sessions</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>F. Scott </lobbyistFirstName>
+          <lobbyistLastName>Orr</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gifford W.</lobbyistFirstName>
+          <lobbyistLastName>Ormes</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J.R. </lobbyistFirstName>
+          <lobbyistLastName>Robinson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gregory L.</lobbyistFirstName>
+          <lobbyistLastName>Smith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J. Wells</lobbyistFirstName>
+          <lobbyistLastName>Ellenberg</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Alex B.</lobbyistFirstName>
+          <lobbyistLastName>McCrary</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Daniel S. </lobbyistFirstName>
+          <lobbyistLastName>Murray</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Senior Policy Adviser, U.S. Sen. James E Risch (ID)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>UTI</issueAreaCode>
+      <specific_issues>
+        <description>Transmission planning and cost allocation, generally
+Comprehensive energy legislation, generally
+Distributed generation, generally
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bryan D. </lobbyistFirstName>
+          <lobbyistLastName>Anderson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>L. Ray</lobbyistFirstName>
+          <lobbyistLastName>Harry</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>H. Adam</lobbyistFirstName>
+          <lobbyistLastName>Lawrence</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Counsel, U.S. Sen. John Breaux (LA)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Noel W.</lobbyistFirstName>
+          <lobbyistLastName>Black</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>James M.</lobbyistFirstName>
+          <lobbyistLastName>McCool</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Michael J.</lobbyistFirstName>
+          <lobbyistLastName>Riith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Chief of Staff, U.S. Rep. Steven LaTourette</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeanne H.</lobbyistFirstName>
+          <lobbyistLastName>Wolak</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Director, U.S. Rep. Jim Chapman (TX)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Leroy D.</lobbyistFirstName>
+          <lobbyistLastName>Nix</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Aide, U.S. Sen. Jeff Sessions (AL)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>F. Scott</lobbyistFirstName>
+          <lobbyistLastName>Orr</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gifford W.</lobbyistFirstName>
+          <lobbyistLastName>Ormes</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J.R. </lobbyistFirstName>
+          <lobbyistLastName>Robinson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gregory L.</lobbyistFirstName>
+          <lobbyistLastName>Smith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J. Wells</lobbyistFirstName>
+          <lobbyistLastName>Ellenberg</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Alex B.</lobbyistFirstName>
+          <lobbyistLastName>McCrary</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Daniel S.</lobbyistFirstName>
+          <lobbyistLastName>Murray</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Senior Policy Adviser, U.S. Sen. James E Risch (ID)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>TRA</issueAreaCode>
+      <specific_issues>
+        <description>S. 808, the Surface Transportation Board Reauthorization Act;
+S. 853, the Rail Shipper Fairness Act
+S. 1314, Commercial UAS Modernization Act;
+S. 1608, Consumer Drone Safety Act;
+H.R. 22, the Fixing Americas Surface Transportation Act;
+H.R. 3763, Surface Transportation Reauthorization and Reform Act of 2015;
+H.R. 3819, Surface Transportation Extension Act of 2015;
+H.R. 4441, the Aviation Innovation, Reform, and Reauthorization Act of 2016;
+S. 2658, the Federal Aviation Administration Reauthorization Act of 2016;
+S.2684, the UAVs for Energy Infrastructure Act.</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bryan D.</lobbyistFirstName>
+          <lobbyistLastName>Anderson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>L. Ray</lobbyistFirstName>
+          <lobbyistLastName>Harry</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>H. Adam</lobbyistFirstName>
+          <lobbyistLastName>Lawrence</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Counsel, U.S. Sen. John Breaux (LA)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Noel W. </lobbyistFirstName>
+          <lobbyistLastName>Black</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>James M.</lobbyistFirstName>
+          <lobbyistLastName>McCool</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Michael J.</lobbyistFirstName>
+          <lobbyistLastName>Riith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Chief of Staff, U.S. Rep. Steve LaTourette</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeanne H.</lobbyistFirstName>
+          <lobbyistLastName>Wolak</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Director, U.S. Rep. Jim Chapman (TX)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Leroy D.</lobbyistFirstName>
+          <lobbyistLastName>Nix</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Aide, U.S. Sen. Jeff Sessions </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>F. Scott</lobbyistFirstName>
+          <lobbyistLastName>Orr</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gifford W.</lobbyistFirstName>
+          <lobbyistLastName>Ormes</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J.R.</lobbyistFirstName>
+          <lobbyistLastName>Robinson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gregory L.</lobbyistFirstName>
+          <lobbyistLastName>Smith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J. Wells</lobbyistFirstName>
+          <lobbyistLastName>Ellenberg</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Alex B.</lobbyistFirstName>
+          <lobbyistLastName>McCrary</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Daniel S.</lobbyistFirstName>
+          <lobbyistLastName>Murray</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Senior Policy Adviser, U.S. Sen. James E Risch (ID)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>HOM</issueAreaCode>
+      <specific_issues>
+        <description>H.R. 26, Terrorism Risk Insurance Program Reauthorization Act of 2015;
+H.R. 234, Cyber Intelligence Sharing and Protection Act;
+H.R. 653, FOIA Oversight and Implementation Act of 2015;
+H.R. 1073, Critical Infrastructure Protection Act; 
+H.R. 1560, Protecting Cyber Networks Act;
+Discussion draft of National Cybersecurity Protection Advancement Act of 2015;
+Discussion draft of Data Breach and Breach Notification Act;
+S. 337, FOIA Improvement Act of 2015;
+S. 456, Cyber Threat Sharing Act of 2015;
+S. 754, Cybersecurity Information Sharing Act of 2015.
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bryan D.</lobbyistFirstName>
+          <lobbyistLastName>Anderson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>L. Ray</lobbyistFirstName>
+          <lobbyistLastName>Harry</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>H. Adam</lobbyistFirstName>
+          <lobbyistLastName>Lawrence</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Counsel, U.S. Sen. John Breaux (LA)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Noel W.</lobbyistFirstName>
+          <lobbyistLastName>Black</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>James M.</lobbyistFirstName>
+          <lobbyistLastName>McCool</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Michael J.</lobbyistFirstName>
+          <lobbyistLastName>Riith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Chief of Staff, U.S. Rep. Steve LaTourette (OH)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeanne H.</lobbyistFirstName>
+          <lobbyistLastName>Wolak</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Director, U.S. Rep. Jim Chapman (TX)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Leroy D.</lobbyistFirstName>
+          <lobbyistLastName>Nix</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Aide, U.S. Sen. Jeff Sessions</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>F. Scott</lobbyistFirstName>
+          <lobbyistLastName>Orr</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gifford W. </lobbyistFirstName>
+          <lobbyistLastName>Ormes</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J.R.</lobbyistFirstName>
+          <lobbyistLastName>Robinson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gregory L. </lobbyistFirstName>
+          <lobbyistLastName>Smith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J. Wells</lobbyistFirstName>
+          <lobbyistLastName>Ellenberg</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Alex B.</lobbyistFirstName>
+          <lobbyistLastName>McCrary</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Daniel S.</lobbyistFirstName>
+          <lobbyistLastName>Murray</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Senior Policy Adviser, U.S. Sen. James E Risch (ID)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>TEC</issueAreaCode>
+      <specific_issues>
+        <description>Discussion draft of legislation to facilitate the deployment of communications infrastructure, provisions regarding regulation of pole attachments</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Bryan D.</lobbyistFirstName>
+          <lobbyistLastName>Anderson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>L. Ray</lobbyistFirstName>
+          <lobbyistLastName>Harry</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>H. Adam </lobbyistFirstName>
+          <lobbyistLastName>Lawrence</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Counsel, U.S. Sen. John Breaux (LA)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Noel W.</lobbyistFirstName>
+          <lobbyistLastName>Black</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jim</lobbyistFirstName>
+          <lobbyistLastName>McCool</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Michael J.</lobbyistFirstName>
+          <lobbyistLastName>Riith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Dep. Chief of Staff, U.S. Rep. Steve LaTourette (OH)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Jeanne H.</lobbyistFirstName>
+          <lobbyistLastName>Wolak</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Director, U.S. Rep. Jim Chapman (TX)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Leroy D. </lobbyistFirstName>
+          <lobbyistLastName>Nix</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Legislative Aide, U.S. Sen. Jeff Sessions (AL)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>F. Scott</lobbyistFirstName>
+          <lobbyistLastName>Orr</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gifford W.</lobbyistFirstName>
+          <lobbyistLastName>Ormes</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J.R.</lobbyistFirstName>
+          <lobbyistLastName>Robinson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Gregory L.</lobbyistFirstName>
+          <lobbyistLastName>Smith</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>J. Wells</lobbyistFirstName>
+          <lobbyistLastName>Ellenberg</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Alex B.</lobbyistFirstName>
+          <lobbyistLastName>McCrary</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Daniel S. </lobbyistFirstName>
+          <lobbyistLastName>Murray</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>Senior Policy Advisor, U.S. Sen. James Risch (ID)</coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+  </alis>
+  <updates>
+    <clientAddress>
+    </clientAddress>
+    <clientCity>
+    </clientCity>
+    <clientState>
+    </clientState>
+    <clientZip>
+    </clientZip>
+    <clientZipext>
+    </clientZipext>
+    <clientCountry>
+    </clientCountry>
+    <prinClientCity>
+    </prinClientCity>
+    <prinClientState>
+    </prinClientState>
+    <prinClientZip>
+    </prinClientZip>
+    <prinClientZipext>
+    </prinClientZipext>
+    <prinClientCountry>
+    </prinClientCountry>
+    <generalDescription>
+    </generalDescription>
+    <inactive_lobbyists>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+    </inactive_lobbyists>
+    <inactive_ALIs>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+    </inactive_ALIs>
+    <affiliatedUrl>
+    </affiliatedUrl>
+    <affiliatedOrgs>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+    </affiliatedOrgs>
+    <inactiveOrgs>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+    </inactiveOrgs>
+    <foreignEntities>
+      <foreignEntity>
+        <name>
+        </name>
+        <address>
+        </address>
+        <city>
+        </city>
+        <state>
+        </state>
+        <country>
+        </country>
+        <prinCity>
+        </prinCity>
+        <prinState>
+        </prinState>
+        <prinCountry>
+        </prinCountry>
+        <contribution>
+        </contribution>
+        <ownership_Percentage>
+        </ownership_Percentage>
+      </foreignEntity>
+    </foreignEntities>
+    <inactive_ForeignEntities>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+    </inactive_ForeignEntities>
+  </updates>
+</LOBBYINGDISCLOSURE2>

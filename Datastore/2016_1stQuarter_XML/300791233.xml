@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../ld2webpage.xsl'?>
+<LOBBYINGDISCLOSURE2>
+  <imported>Y</imported>
+  <pages>5</pages>
+  <submitURL>
+  </submitURL>
+  <organizationName>Nathanson+Hauck</organizationName>
+  <prefix>
+  </prefix>
+  <firstName>
+  </firstName>
+  <lastName>
+  </lastName>
+  <registrantDifferentAddress>N</registrantDifferentAddress>
+  <address1>601 13th Street NW</address1>
+  <address2>11th Floor North</address2>
+  <city>Washington</city>
+  <state>DC</state>
+  <zip>20005</zip>
+  <zipext>
+  </zipext>
+  <country>USA</country>
+  <principal_city>
+  </principal_city>
+  <principal_state>
+  </principal_state>
+  <principal_zip>
+  </principal_zip>
+  <principal_zipext>
+  </principal_zipext>
+  <principal_country>
+  </principal_country>
+  <contactIntlPhone>
+  </contactIntlPhone>
+  <selfSelect>N</selfSelect>
+  <clientName>Pharmaceutical Care Management Association (PCMA)</clientName>
+  <clientGovtEntity>N</clientGovtEntity>
+  <senateID>400693064-51</senateID>
+  <houseID>415240004</houseID>
+  <reportYear>2016</reportYear>
+  <reportType>Q1</reportType>
+  <terminationDate>
+  </terminationDate>
+  <noLobbying>
+  </noLobbying>
+  <income>60000.00</income>
+  <expenses>
+  </expenses>
+  <expensesMethod>
+  </expensesMethod>
+  <printedName>Melanie Nathanson</printedName>
+  <signedDate>4/14/2016 1:15:23 PM</signedDate>
+  <alis>
+    <ali_info>
+      <issueAreaCode>HCR</issueAreaCode>
+      <specific_issues>
+        <description>The Comprehensive Addiction and Recovery Act(S. 524) - Legislation focused on fighting the opioid epidemic in America, including amendments allowing the use of certain pharmacies and providers to protect Medicare beneficiaries from addiction.  
+
+The Mental Health Reform Act of 2015 (S. 1945) - Legislation focused on improving treatment for mental health and substance use disorders.  Particular focus on formulary policies. 
+
+FDA's March 31, 2016 biosimilar labeling guidance and additional work regarding biosimilars. 
+
+Implementation of the health reform law with a focus on policies and regulations related to biosimilars, prescription drug coverage in the Exchanges and related policies.
+
+Policies related to Medicare Part C and D with a focus on network design, formularies and access to specialty medications.
+
+Issues related to Senate Finance Committee activity on advances in chronic care with a focus on medication-based therapies.
+
+CCIIO issuer letter and additional guidance and regulations focused on programs in the Exchanges that impact coverage and access to prescription medications and pharmacy networks. 
+
+Work focused on Medicare Part D and related regulations and reports specific to pharmacy networks. 
+
+Issues related to the implementation of the health care law that impact public and private sector pharmacy benefits. 
+
+CMS call letter focused on changes in policies regarding mail order and pharmacy networks. 
+
+Issues related to pricing and access to prescription drugs including specialty drugs and biosimilars.
+
+Issues related to patents and the treatment of prescription medications.
+
+
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES, Centers For Medicare and Medicaid Services (CMS)</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Melanie</lobbyistFirstName>
+          <lobbyistLastName>Nathanson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Megan</lobbyistFirstName>
+          <lobbyistLastName>Hauck</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>MMM</issueAreaCode>
+      <specific_issues>
+        <description>The Comprehensive Addiction and Recovery Act(S. 524) - Legislation focused on fighting the opioid epidemic in America, including amendments allowing the use of certain pharmacies and providers to protect Medicare beneficiaries from addiction.  
+
+Implementation of the health reform law with a focus on policies and regulations related to biosimilars, prescription drug coverage in the Exchanges and related policies.
+
+Policies related to Medicare Part C and D with a focus on network design, formularies and access to specialty medications.
+
+Issues related to Senate Finance Committee activity on advances in chronic care in teh Medicare program with a focus on medication-based therapies.
+
+CCIIO issuer letter and additional guidance and regulations focused on programs in the Exchanges that impact coverage and access to prescription medications and pharmacy networks. 
+
+Work focused on Medicare Part D and related regulations and reports specific to pharmacy networks. 
+
+Issues related to the implementation of the health care law that impact public and private sector pharmacy benefits. 
+
+CMS call letter focused on changes in policies regarding mail order and pharmacy networks. 
+
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES, Centers For Medicare and Medicaid Services (CMS)</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Melanie</lobbyistFirstName>
+          <lobbyistLastName>Nathanson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Megan</lobbyistFirstName>
+          <lobbyistLastName>Hauck</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+    <ali_info>
+      <issueAreaCode>PHA</issueAreaCode>
+      <specific_issues>
+        <description>The Comprehensive Addiction and Recovery Act(S. 524) - Legislation focused on fighting the opioid epidemic in America, including amendments allowing the use of certain pharmacies and providers to protect Medicare beneficiaries from addiction.  
+
+The Mental Health Reform Act of 2015 (S. 1945) - Legislation focused on improving treatment for mental health and substance use disorders.  Particular focus on formulary policies. 
+
+FDA's March 31, 2016 biosimilar labeling guidance and additional work regarding biosimilars. 
+
+Implementation of the health reform law with a focus on policies and regulations related to biosimilars, prescription drug coverage in the Exchanges and related policies.
+
+Policies related to Medicare Part C and D with a focus on network design, formularies and access to specialty medications.
+
+Issues related to Senate Finance Committee activity on advances in chronic care with a focus on medication-based therapies.
+
+CCIIO issuer letter and additional guidance and regulations focused on programs in the Exchanges that impact coverage and access to prescription medications and pharmacy networks. 
+
+Work focused on Medicare Part D and related regulations and reports specific to pharmacy networks. 
+
+Issues related to the implementation of the health care law that impact public and private sector pharmacy benefits. 
+
+CMS call letter focused on changes in policies regarding mail order and pharmacy networks. 
+
+Issues related to Senate Finance Committee activity on advances in chronic care with a focus on medication-based therapies.
+
+CCIIO issuer letter and regulations focused on bids for 2015 and impacts on access to prescription medications and pharmacy networks. 
+
+Work focused on Medicare Part D and related regulations and reports specific to pharmacy networks. 
+
+Issues related to the implementation of the health care law that impact public and private sector pharmacy benefits. 
+
+CMS call letter focused on changes in policies regarding mail order and pharmacy networks. 
+
+Issues related to pricing and access to prescription drugs including specialty drugs and biosimilars.
+
+
+Issues related to patents and the treatment of prescription medications.
+
+</description>
+      </specific_issues>
+      <federal_agencies>U.S. SENATE, U.S. HOUSE OF REPRESENTATIVES, Centers For Medicare and Medicaid Services (CMS)</federal_agencies>
+      <lobbyists>
+        <lobbyist>
+          <lobbyistFirstName>Melanie</lobbyistFirstName>
+          <lobbyistLastName>Nathanson</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>Megan</lobbyistFirstName>
+          <lobbyistLastName>Hauck</lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+        <lobbyist>
+          <lobbyistFirstName>
+          </lobbyistFirstName>
+          <lobbyistLastName>
+          </lobbyistLastName>
+          <lobbyistSuffix>
+          </lobbyistSuffix>
+          <coveredPosition>
+          </coveredPosition>
+          <lobbyistNew>N</lobbyistNew>
+        </lobbyist>
+      </lobbyists>
+      <foreign_entity_issues>
+      </foreign_entity_issues>
+    </ali_info>
+  </alis>
+  <updates>
+    <clientAddress>
+    </clientAddress>
+    <clientCity>
+    </clientCity>
+    <clientState>
+    </clientState>
+    <clientZip>
+    </clientZip>
+    <clientZipext>
+    </clientZipext>
+    <clientCountry>
+    </clientCountry>
+    <prinClientCity>
+    </prinClientCity>
+    <prinClientState>
+    </prinClientState>
+    <prinClientZip>
+    </prinClientZip>
+    <prinClientZipext>
+    </prinClientZipext>
+    <prinClientCountry>
+    </prinClientCountry>
+    <generalDescription>
+    </generalDescription>
+    <inactive_lobbyists>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+      <inactive_lobbyist>
+        <firstName>
+        </firstName>
+        <lastName>
+        </lastName>
+        <suffix>
+        </suffix>
+      </inactive_lobbyist>
+    </inactive_lobbyists>
+    <inactive_ALIs>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+      <ali_Code>
+      </ali_Code>
+    </inactive_ALIs>
+    <affiliatedUrl>
+    </affiliatedUrl>
+    <affiliatedOrgs>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+      <affiliatedOrg>
+        <affiliatedOrgName>
+        </affiliatedOrgName>
+        <affiliatedOrgAddress>
+        </affiliatedOrgAddress>
+        <affiliatedOrgCity>
+        </affiliatedOrgCity>
+        <affiliatedOrgState>
+        </affiliatedOrgState>
+        <affiliatedOrgZip>
+        </affiliatedOrgZip>
+        <affiliatedOrgCountry>
+        </affiliatedOrgCountry>
+        <affiliatedPrinOrgCity>
+        </affiliatedPrinOrgCity>
+        <affiliatedPrinOrgState>
+        </affiliatedPrinOrgState>
+        <affiliatedPrinOrgCountry>
+        </affiliatedPrinOrgCountry>
+      </affiliatedOrg>
+    </affiliatedOrgs>
+    <inactiveOrgs>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+      <inactiveOrgName>
+      </inactiveOrgName>
+    </inactiveOrgs>
+    <foreignEntities>
+      <foreignEntity>
+        <name>
+        </name>
+        <address>
+        </address>
+        <city>
+        </city>
+        <state>
+        </state>
+        <country>
+        </country>
+        <prinCity>
+        </prinCity>
+        <prinState>
+        </prinState>
+        <prinCountry>
+        </prinCountry>
+        <contribution>
+        </contribution>
+        <ownership_Percentage>
+        </ownership_Percentage>
+      </foreignEntity>
+    </foreignEntities>
+    <inactive_ForeignEntities>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+      <inactive_ForeignEntity>
+      </inactive_ForeignEntity>
+    </inactive_ForeignEntities>
+  </updates>
+</LOBBYINGDISCLOSURE2>
