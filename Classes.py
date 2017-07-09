@@ -11,7 +11,6 @@ class Lobbyist(Person):
     "Lobbyist subclass of person"
     def __init__(self,firstname):
         self.firstname = firstname
-
 class Legislator(Person):
     "Legislator sub class of person"
     def __init__(self,firstname,lastname,politicalbranch):
