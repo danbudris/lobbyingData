@@ -16,6 +16,9 @@ class Legislator(Person):
     def __init__(self,firstname,lastname,politicalbranch):
         Person.__init__(self,firstname,lastname)
         self.politicalbranch = politicalbranch
+        self.donors = {}
+        self.total_contributions
+        self.
         
 class Organization(object):
     "An organization parent class"

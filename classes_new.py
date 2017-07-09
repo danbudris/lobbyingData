@@ -23,7 +23,7 @@ class Legislator(Person):
         self.lcv_score_by_year = {}
         
     def get_influencers(self):
-        data = '/Users/Dan/Documents/projects/lobbyingData/datastore/crp_data.csv'
+        data = '/Users/Dan/Documents/projects/lobbyingData/datastore/2016_%s_%s_industry_contributions.csv'%(self.lastname, self.firstname)
         with open(data, 'rb') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
@@ -42,7 +42,7 @@ class Legislator(Person):
                     self.donors[(row['Orgname'])] += int(row['Amount'])
 
     def get_lcv_score(self):
-        data = '/Users/Dan/Documents/projects/lobbyingData/datastore/mitch_mcconnell_lcv.csv'
+        data = '/Users/Dan/Documents/projects/lobbyingData/datastore/%s_%s_lcv.csv' % (self.lastname, self.firstname)
         with open(data, 'rb') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
@@ -54,7 +54,7 @@ class Legislator(Person):
     def lcv_score_in_cycle(self, year):
         year1 = self.lcv_score_by_year[year][0]
         year2 = self.lcv_score_by_year["%s" % str((int(year)-1))][0]
-        year1 = year1.replace("%","")
-        year2 = year2.replace("%","")
-        print((int(year1) + int(year2))/2)
-        self.score_to_contribs = [self.lcv_score_in_cycle('2016'), self.relevent_influencers_envrionmental]
+        yearone = year1.replace("%","")
+        yeartwo = year2.replace("%","")
+        print ((int(yearone) + int(yeartwo))/2)
+        self.score_to_contribs = ((int(yearone) + int(yeartwo))/2)
